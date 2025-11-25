@@ -1,0 +1,3 @@
+python-telegram-bot==20.4
+genai==1.5.0
+httpx==0.24.1
