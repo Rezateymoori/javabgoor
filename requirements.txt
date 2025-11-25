@@ -1,4 +1,0 @@
-python-telegram-bot==20.4
-genai==2.0.0
-tiktoken<0.3.0
-httpx==0.24.1
